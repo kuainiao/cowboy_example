@@ -1,0 +1,7 @@
+{% extends 'base.dtl' %}
+{% block title %}welcome to page dtl{% endblock %}
+
+{% block content %}
+	{{ block.super }}
+here is my page
+{% endblock %}

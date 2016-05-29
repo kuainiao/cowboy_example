@@ -1,0 +1,8 @@
+<html>
+<body>
+
+{{ client }}
+{{ server }}
+
+</body>
+</html>
